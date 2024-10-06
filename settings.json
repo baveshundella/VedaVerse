@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MySQL connection",
+            "database": "newdb",
+            "username": "admin",
+            "password": "bavesh1234"
+        }
+    ],
+    "liveServer.settings.port": 5501
+}
